@@ -1,0 +1,31 @@
+.flex-block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.why-us-flex-item{
+    background: #0f4c75;
+    color: white;
+    width: 20%;
+    padding: 40px;
+    margin: 20px;
+}
+
+.block-label{
+     font-variant: small-caps;
+     font-size: 20px;
+     margin-bottom: 20px;
+     letter-spacing: 5px;
+}
+
+.block-description{
+    text-align: justify;
+}
+
+.block-number{
+    font-weight: bold;
+    font-size: 50px;
+    padding: 20px;
+}

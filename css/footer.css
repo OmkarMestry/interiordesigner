@@ -1,0 +1,35 @@
+.footer{
+    background: #0f4c75;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.location{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    min-width: 27%;
+    letter-spacing: 5px;
+    font-variant: small-caps;
+    padding: 20px;
+}
+
+.address{
+    font-weight: lighter;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.social-media-icons i{
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.copyrights{
+    font-size: 16px;
+    text-align: center;
+    margin: 15px;
+}
